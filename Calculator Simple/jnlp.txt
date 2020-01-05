@@ -1,0 +1,1 @@
+javapackager -deploy -outdir deploued -outfile outfile -width 600 -height -600 -name Calculator -appclass CalculatorSimple -v -srcdir compiled

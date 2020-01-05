@@ -1,0 +1,1 @@
+javapackager -createjar -outdir compiled -outfile calculator -appclass calculatorsimple  -srcdir build -v
